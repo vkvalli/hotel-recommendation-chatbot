@@ -8,17 +8,15 @@ The dataset used in this project consists of hotel listings and reviews from 25 
 ## Functionality
 The Hotel recommendation Chatbot offers the following functionality:
 
-City Selection: Users are prompted to enter the city they wish to stay in.
-
-Top Hotel Recommendations: Based on the number of reviews, the chatbot suggests a list of the top 10 hotels in the selected city.
-
-Recommender System: The chatbot recommends hotels based on user preferences or similarity to previously reviewed hotels.
+* City Selection: Users are prompted to enter the city they wish to stay in.
+* Top Hotel Recommendations: Based on the number of reviews, the chatbot suggests a list of the top 10 hotels in the selected city.
+* Recommender System: The chatbot recommends hotels based on user preferences or similarity to previously reviewed hotels.
 
 ## Future Enhancements
-Integration with external APIs to provide real-time hotel data and availability.
-Natural Language Understanding (NLU) capabilities to improve user interaction and understand complex queries.
-Incorporation of machine learning techniques for better hotel recommendations based on user preferences.
-Deployment of the chatbot as a web application or integration with messaging platforms for wider accessibility.
+* Integration with external APIs to provide real-time hotel data and availability.
+* Natural Language Understanding (NLU) capabilities to improve user interaction and understand complex queries.
+* Incorporation of machine learning techniques for better hotel recommendations based on user preferences.
+* Deployment of the chatbot as a web application or integration with messaging platforms for wider accessibility.
 
 
 Please feel free to contribute to this project by opening issues, suggesting improvements, or submitting pull requests.
