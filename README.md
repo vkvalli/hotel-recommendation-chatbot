@@ -15,11 +15,10 @@ Top Hotel Recommendations: Based on the number of reviews, the chatbot suggests 
 Recommender System: The chatbot recommends hotels based on user preferences or similarity to previously reviewed hotels.
 
 ## Future Enhancements
-Here are some potential areas for future enhancements:
-
 Integration with external APIs to provide real-time hotel data and availability.
 Natural Language Understanding (NLU) capabilities to improve user interaction and understand complex queries.
 Incorporation of machine learning techniques for better hotel recommendations based on user preferences.
 Deployment of the chatbot as a web application or integration with messaging platforms for wider accessibility.
+
 
 Please feel free to contribute to this project by opening issues, suggesting improvements, or submitting pull requests.
