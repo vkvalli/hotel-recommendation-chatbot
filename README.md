@@ -1,4 +1,4 @@
-# Hotel recommendation Chatbot
+# Hotel Recommendation Chatbot
 
 The Hotel Recommendation Chatbot is an interactive Python-based chatbot that helps users find top hotels based on reviews in their desired city. The chatbot utilizes a dataset containing hotel listings and reviews across 25 cities, offering various features such as semantic search, recommender system, sentiment analysis, graph network for similar hotels, and hotel segmentation based on reviews.
 
